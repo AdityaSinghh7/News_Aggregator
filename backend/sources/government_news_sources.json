@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Press Information Bureau, Government of India",
+    "website": "https://www.india.gov.in/news_lists?a450982511",
+    "type": "Government",
+    "rss": "https://rss.app/feeds/Yw6vERBqZltZrXD2.xml",
+    "language": "English",
+    "region": "National",
+    "country": "India",
+    "source_category": "Official Government Release",
+    "government_entity": "Press Information Bureau",
+    "notes": "Official press agency of the Government of India. Provides press releases from all ministries.",
+    "scraping_requirements": "RSS_HTML"
+  },
+  {
+    "name": "Ministry of Foreign Affairs, Pakistan - Press Releases",
+    "website": "https://mofa.gov.pk/press-releases/",
+    "type": "Government",
+    "rss": "https://mofa.gov.pk/feed/",
+    "language": "English",
+    "region": "National",
+    "country": "Pakistan",
+    "source_category": "Official Government Release",
+    "government_entity": "Ministry of Foreign Affairs",
+    "notes": "Official statements and press releases from the Government of Pakistan on foreign affairs.",
+    "scraping_requirements": "RSS, HTML_STATIC"
+  },
+  {
+    "name": "Prime Minister's Office, India",
+    "website": "https://www.pmindia.gov.in/en/",
+    "type": "Government",
+    "rss": "https://www.pmindia.gov.in/en/tag/pmspeech/feed/",
+    "language": "English",
+    "region": "National",
+    "country": "India",
+    "source_category": "Official Government Release",
+    "government_entity": "Prime Minister's Office",
+    "notes": "Official news, speeches, and updates from the Prime Minister of India.",
+    "scraping_requirements": "RSS, HTML_STATIC"
+  },
+  {
+    "name": "Prime Minister's Office, Pakistan",
+    "website": "https://pmo.gov.pk/",
+    "type": "Government",
+    "rss": "To be found",
+    "language": "English",
+    "region": "National",
+    "country": "Pakistan",
+    "source_category": "Official Government Release",
+    "government_entity": "Prime Minister's Office",
+    "notes": "Official news and updates from the Prime Minister of Pakistan. RSS feed needs to be located.",
+    "scraping_requirements": "HTML_STATIC (RSS if found)"
+  }
+]

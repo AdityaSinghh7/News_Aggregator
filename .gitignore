@@ -1,0 +1,28 @@
+# Ignore Python virtual environments
+backend/.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Node modules (for frontend)
+frontend/node_modules/
+
+# Ignore environment variables and local settings
+.env
+.env.*
+
+# Ignore OS files
+.DS_Store
+
+# (Optional) Ignore build output
+frontend/.next/
+
+# (Optional) Ignore logs
+*.log
+
+# Project planning files should be versioned
+to-do.txt
+tech-stack.txt
+database-schema.txt
+implementation-notes.txt
