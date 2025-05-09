@@ -1,4 +1,4 @@
-# News_Aggregator
+# News Aggregator
 
 ## 📌 Aim
 
