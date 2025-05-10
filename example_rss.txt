@@ -1,0 +1,194 @@
+The Hindu - Example:
+<rss version="2.0">
+<channel>
+<atom:link href="https://www.thehindu.com/feeder/default.rss" rel="self" type="application/rss+xml"/>
+<title>
+The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.
+</title>
+<link>https://www.thehindu.com/</link>
+<description>
+The Hindu Newspaper: Get latest News on Politics, Sports, Business, Arts, Entertainment and trending news Videos from The Hindu
+</description>
+<category>Home</category>
+<ttl>60</ttl>
+<lastBuildDate> Sat, 10 May 2025 09:28:49 +0530</lastBuildDate>
+<copyright>Copyright (C) 2025 THG PUBLISHING PVT LTD.</copyright>
+<language>en-US</language>
+<docs>https://www.thehindu.com/</docs>
+<image>
+<title>
+The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.
+</title>
+<link>https://www.thehindu.com/</link>
+<url>
+https://www.thehindu.com/theme/images/th-online/OG-sections.png
+</url>
+</image>
+<item>
+<title>Gravely concerned: Singapore on India-Pak tensions</title>
+<description>
+Singapore had strongly condemned the April 22 terrorist attack in Jammu and Kashmir's Pahalgam, which claimed 26 lives.
+</description>
+<link>
+https://www.thehindu.com/news/international/gravely-concerned-singapore-on-india-pak-tensions/article69559984.ece
+</link>
+<guid isPermaLink="false">article-69559984</guid>
+<category>World</category>
+<pubDate>Sat, 10 May 2025 09:28:46 +0530</pubDate>
+<media:content height="675" medium="image" url="https://th-i.thgim.com/public/news/national/f9gciw/article69559998.ece/alternates/LANDSCAPE_1200/AFP__20240727__36628EL__v1__HighRes__LaosAseanDiplomacy.jpg" width="1200"/>
+</item>
+<item>
+<title>
+Tamil Nadu Congress Committee organises rally in support of Indian Armed Forces
+</title>
+<description></description>
+<link>
+https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-congress-committee-organises-rally-in-support-of-indian-armed-forces/article69558296.ece
+</link>
+<guid isPermaLink="false">article-69558296</guid>
+<category>Tamil Nadu</category>
+<pubDate>Sat, 10 May 2025 09:12:11 +0530</pubDate>
+</item>
+<item>
+<title>
+U.P. CM Yogi Adityanath unveils two initiatives with support of World Bank
+</title>
+<description>
+Expressing gratitude for the World Bank’s continuous support, Mr. Adityanath praised the role of the international organisation in helping Uttar Pradesh to move closer to its vision of becoming a $1 trillion economy.
+</description>
+<link>
+https://www.thehindu.com/news/national/uttar-pradesh/up-cm-yogi-adityanath-unveils-two-initiatives-with-support-of-world-bank/article69558436.ece
+</link>
+<guid isPermaLink="false">article-69558436</guid>
+<category>Uttar Pradesh</category>
+<pubDate>Sat, 10 May 2025 09:10:42 +0530</pubDate>
+<media:content height="675" medium="image" url="https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/gjph68/article69559316.ece/alternates/LANDSCAPE_1200/U.P._-World-BanG1EEBSL3M.3.jpg.jpg" width="1200"/>
+</item>
+<item>
+<title>
+Chief Minister Pinarayi to interact with the youth in Kozhikode
+</title>
+<description></description>
+<link>
+https://www.thehindu.com/news/national/kerala/chief-minister-pinarayi-to-interact-with-the-youth-in-kozhikode/article69558122.ece
+</link>
+<guid isPermaLink="false">article-69558122</guid>
+<category>Kerala</category>
+<pubDate>Sat, 10 May 2025 09:03:08 +0530</pubDate>
+</item>
+<item>
+
+NDTV:
+<rss version="2.0">
+<channel>
+<title>NDTV News Search Records Found 1000</title>
+<link>https://www.ndtv.com/</link>
+<language>en</language>
+<lastBuildDate> Sat, 10 May 2025 08:21:03 +0530 </lastBuildDate>
+<image>
+<title>NDTV News Search Records Found 1000</title>
+<url>
+https://www.ndtv.com/common/header/images/ndtv_logo_black.gif
+</url>
+<link>https://www.ndtv.com/</link>
+</image>
+<description>
+NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.
+</description>
+<item>
+<guid isPermaLink="true">
+https://www.ndtv.com/india-news/omar-abdullah-slams-imf-for-1-billion-loan-to-pakistan-amid-tensions-with-india-after-pahalgam-attack-operation-sindoor-8376869#publisher=newsstand
+</guid>
+<title>
+"Not Sure How...": Omar Abdullah Slams IMF For $1 Billion Loan To Pak
+</title>
+<link>
+https://www.ndtv.com/india-news/omar-abdullah-slams-imf-for-1-billion-loan-to-pakistan-amid-tensions-with-india-after-pahalgam-attack-operation-sindoor-8376869#publisher=newsstand
+</link>
+<pubDate>Sat, 10 May 2025 08:18:22 +0530</pubDate>
+<media:content url="https://c.ndtvimg.com/2025-05/pn4vkgh4_omar-abdullah_625x300_10_May_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" expression="full" width="1200" height="738">
+<media:description type="plain">File photo</media:description>
+</media:content>
+<description>
+Jammu and Kashmir Chief Minister Omar Abdullah on Saturday slammed the International Monetary Fund (IMF) for approving the immediate disbursement of about USD 1 billion to Pakistan amid heightening tensions with India.
+</description>
+<content:encoded>
+Jammu and Kashmir Chief Minister Omar Abdullah on Saturday slammed the International Monetary Fund (IMF) for approving the immediate disbursement of about USD 1 billion to Pakistan amid heightening tensions with India.
+</content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">
+https://www.ndtv.com/india-news/senior-j-k-official-killed-after-pakistani-shell-hits-his-house-in-rajouri-8376718#publisher=newsstand
+</guid>
+<title>
+Senior J&K Official Killed After Pakistani Shell Hits His House In Rajouri
+</title>
+<link>
+https://www.ndtv.com/india-news/senior-j-k-official-killed-after-pakistani-shell-hits-his-house-in-rajouri-8376718#publisher=newsstand
+</link>
+<pubDate>Sat, 10 May 2025 08:01:36 +0530</pubDate>
+<media:content url="https://c.ndtvimg.com/2025-05/orfukok8_jk-officer_625x300_10_May_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" expression="full" width="566" height="441">
+<media:description type="plain">
+Raj Kumar Thapa, Additional District Development Commissioner for Rajouri, was killed in shelling
+</media:description>
+</media:content>
+<description>
+A Jammu and Kashmir government officer was killed as Pakistan targeted civilian areas in Rajouri and other parts of the Union Territory this morning. Chief Minister Omar Abdullah said he had no words to express his shock and sadnessthe
+</description>
+<content:encoded>
+<iframe title="Player" class="head-story__img img__full lazyload" height="300" scrolling=no frameborder=no src="about:blank" data-src="https://www.ndtv.com/video/embed-player/id/937503/play-via-app-wap?pWidth=100&pHeight=100&embed_type=story&site=classic&autostart=1"> </iframe>A Jammu and Kashmir government officer was killed as Pakistan targeted civilian areas in Rajouri and other parts of the Union Territory this morning. Chief Minister Omar Abdullah said he had no words to express his shock and sadnessthe
+</content:encoded>
+</item>
+
+The Boom:
+<rss version="2.0">
+<channel>
+<title>
+Latest News: Read the Latest Stories at Boomlive.in
+</title>
+<description>
+Get the latest headlines, stories, and analysis from Boomlive.in. Stay informed with the latest news and updates from around the world. Read the latest stories and get insights from the world of news.
+</description>
+<link>https://www.boomlive.in/latest-news</link>
+<image>
+<url>https://www.boomlive.in/images/ico/favicon.ico?v=2</url>
+<title>
+Latest News: Read the Latest Stories at Boomlive.in
+</title>
+<link>https://www.boomlive.in/latest-news</link>
+</image>
+<generator>https://rss.app</generator>
+<lastBuildDate>Sat, 10 May 2025 04:09:51 GMT</lastBuildDate>
+<atom:link href="https://rss.app/feeds/oF1vJQrLiDTQMsKp.xml" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<item>
+<title>
+Indian News Outlets on Misreporting Surge Over Indo-Pak Conflict
+</title>
+<description>
+<div><img src="https://www.boomlive.in/h-upload/2025/05/09/1043733-news-outlet-.webp" style="width: 100%;" /><div>Indian media outlets went on a real time misreporting spree as India and Pakistan hurled missiles at each other late on May 8. From 'Islamabad captured' to 'Karachi Port destroyed', mainstream news...</div></div>
+</description>
+<link>
+https://www.boomlive.in/fact-check/indian-media-misreporting-operation-sindoor-pakistan-pahalgam-kashmir-jammu-army-28517
+</link>
+<guid isPermaLink="false">160012b6aff945797cefadff8fd18c8b</guid>
+<dc:creator>Archis Chowdhury</dc:creator>
+<pubDate>Sat, 10 May 2025 02:24:15 GMT</pubDate>
+<media:content medium="image" url="https://www.boomlive.in/h-upload/2025/05/09/1043733-news-outlet-.webp"/>
+</item>
+<item>
+<title>
+Video From Philadelphia Viral As INS Vikrant Attack On Karachi Port
+</title>
+<description>
+<div><img src="https://www.boomlive.in/h-upload/2025/05/09/1043705-navy-destroyed-false.webp" style="width: 100%;" /><div>BOOM found the video is from a January 2025 plane crash in Philadelphia and not from Karachi, Pakistan.</div></div>
+</description>
+<link>
+https://www.boomlive.in/fact-check/operation-sindoor-indian-army-ins-vikrant-karachi-attack-pakistan-viral-video-fact-check-28511
+</link>
+<guid isPermaLink="false">94464bf38e1f09bb4ce9dbf151df4260</guid>
+<dc:creator>Srijit Das</dc:creator>
+<pubDate>Fri, 09 May 2025 18:41:34 GMT</pubDate>
+<media:content medium="image" url="https://www.boomlive.in/h-upload/2025/05/09/1043705-navy-destroyed-false.webp"/>
+</item>
+<item>

@@ -9,6 +9,7 @@
     "country": "India",
     "source_category": "Official Government Release",
     "government_entity": "Press Information Bureau",
+    "reliability_score": 10,
     "notes": "Official press agency of the Government of India. Provides press releases from all ministries.",
     "scraping_requirements": "RSS_HTML"
   }
