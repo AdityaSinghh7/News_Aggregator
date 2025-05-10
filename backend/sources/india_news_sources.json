@@ -67,7 +67,7 @@
     "government_entity": null,
     "reliability_score": 8,
     "notes": "Prominent TV news channel & website. Check developer portal for API.",
-    "scraping_method": "API"
+    "scraping_method": "RSS_HTML"
   },
   {
     "name": "India Today",
